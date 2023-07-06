@@ -1,10 +1,44 @@
-<h1 align="center">Hi 👋, I'm Rudra Sharma</h1>
-<h3 align="center">I am A 2nd Year Btech CSE Student at UPES,Dehradun</h3>
-<img align ="right" alt="coding" width="400" src="https://media3.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif?cid=6c09b9523zmhy5igqjnlfddvuiqibeglhy1ps7utxa44u9ia&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
-<p align="left">
-</p>
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk1a3BhaGhtbnE4ZmtvOXBpcHN1dTljZWNpNWx5ZWtzeWRjM2JvMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vLWnQRfW8ypvFBxITK/giphy.gif"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudracodeshere&show_icons=true&locale=en" alt="rudracodeshere" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudracodeshere&" alt="rudracodeshere" /></p>
+###
+
+<h1 align="center">🕷Welcome To Your Friendly Neighbourhood🕷</h1>
+
+###
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Rudra Sharma<br>-Currently pursuing 2nd Year BTech. CSE 💻<br>-UPES, Dehradun🌄</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rudracodeshere&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
