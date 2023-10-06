@@ -1,5 +1,5 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-<img src='https://randommeme-five.vercel.app/' align="right" style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' align="right" style="width: 400px;"/>
 # 💫 About Me:
 Hi there! 👋 I’m Rudra Sharma!<br><br>🎓 Education: Pursuing B.Tech in Computer Science and Engineering 2nd Year from UPES University 🎓<br><br>✔ Current Learning Journey:<br>  🚀 Exploring the world of Java programming.<br>  🔍 Sharpening my problem-solving skills with Data Structures and Algorithms (DSA).<br>  🌐 Building web applications and learning front-end and back-end technologies in Web Development.<br><br>⚡ Fun fact: I can binge-watch an entire anime series in one weekend! 🎥🍿
 
