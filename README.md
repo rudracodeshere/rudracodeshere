@@ -8,7 +8,7 @@
 
 <div>
  
-🏫2nd Year BTech. CSE in UPES Dehradun
+🏫3rd Year BTech. CSE in UPES Dehradun
  
 💻Mastering The World of C++ and DSA. <br>
 
