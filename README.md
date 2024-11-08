@@ -10,7 +10,7 @@
  
 🏫3rd Year BTech. CSE in UPES Dehradun
  
-💻Mastering The World of C++ and DSA. <br>
+💻 C++ and DSA. <br>
 
 👷‍♂️Developing with Flutter
 
